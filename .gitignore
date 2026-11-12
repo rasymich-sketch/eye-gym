@@ -1,0 +1,5 @@
+﻿journal.json
+settings.json
+error.log
+__pycache__/
+*.pyc
